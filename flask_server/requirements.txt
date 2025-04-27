@@ -1,0 +1,10 @@
+boto3
+streamlit
+PyPDF4
+flask
+textblob
+flask-cors
+chardet
+requests
+python-dotenv
+
