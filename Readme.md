@@ -79,7 +79,7 @@ This platform assists users in understanding legal documents and identifying ris
 ![Homepage](screenshots/Homepage.png)
 
 ### 📝 Input Page
-![Input Page](screenshots/Inputpng.png)
+![Input Page](screenshots/Input.png)
 
 ### 📋 Output Page
 ![Output Page](screenshots/Output.png)
